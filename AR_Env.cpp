@@ -1,5 +1,6 @@
 #include "stdafx.h"
 //添加一行注释
+//在master分支上添加一行
 #include <string>
 #include <windows.h>
 #include "Capture.h"
